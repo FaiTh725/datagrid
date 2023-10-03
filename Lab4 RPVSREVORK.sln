@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4 RPVSREVORK", "Lab4 RPVSREVORK.csproj", "{3EDACF82-8272-410D-8C89-B0C8074AE7D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDACF82-8272-410D-8C89-B0C8074AE7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDACF82-8272-410D-8C89-B0C8074AE7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDACF82-8272-410D-8C89-B0C8074AE7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDACF82-8272-410D-8C89-B0C8074AE7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC5CF06-B300-4B84-BB1C-B27F06EECD46}
+	EndGlobalSection
+EndGlobal
